@@ -1,0 +1,7 @@
+.pio
+.clang_complete
+.ccls
+.pioenvs
+.piolibdeps
+.gcc-flags.json
+.ccls-cache
